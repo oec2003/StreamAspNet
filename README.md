@@ -1,7 +1,7 @@
 ## 开源上传组件stream的.Net后台实现
 
-`stream`上传组件主页：[http://www.twinkling.cn/](http://www.twinkling.cn/)
-`stream	`上传组件项目地址：[http://git.oschina.net/jiangdx/stream](http://git.oschina.net/jiangdx/stream)
+> `stream`上传组件主页：[http://www.twinkling.cn/](http://www.twinkling.cn/)
+> `stream	`上传组件项目地址：[http://git.oschina.net/jiangdx/stream](http://git.oschina.net/jiangdx/stream)
 
 本项目是	`stream`组件的.Net后台实现，目前只实现了Html5的版本。
 
